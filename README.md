@@ -1,17 +1,18 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
-Include the date you created this project and README file.
+10/01/2023
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+Using Python's numpy, pandas and libraries, we utilize descriptive statistics to filter data about Bikeshare's operations in Chicago, New York City, and Washington, based on user input for city, month, and/or day of the week. Descriptive statistics are applied to provide information about frequent travel times, popular stations and trips, trip duration, and user statistics such as type, gender, and birth year. Users may also choose to view raw data for their selected city before at the end. All functions have been timed using the time library.
 
 ### Files used
-Include the files used
+bikeshare.py chicago.csv new_york_city.csv washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+For the project, I referred to the following websites:
+https://stackoverflow.com/questions/48590268/pandas-get-the-most-frequent-values-of-a-column
+
+https://stackoverflow.com/questions/53037698/how-can-i-find-the-most-frequent-two-column-combination-in-a-dataframe-in-python
 
